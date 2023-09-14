@@ -1,4 +1,4 @@
-- 👋 Sou o Eduardo
+- ⭐ Sou o Eduardo
 - 🎮 Jogos é meu forte 
 - 🚲 Gosto de fazer trilhas de bicicleta
 - 🖋️ Amo ler
