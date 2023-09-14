@@ -10,8 +10,8 @@
    <img src="https://img.freepik.com/fotos-gratis/ciclismo-curso-estilo-de-vida-de-ferias-de-montanha_1150-1017.jpg?w=1060&t=st=1694713197~exp=1694713797~hmac=4f15405fdd425d848536fa417a5749210466b72d77a2d0a9b30768a2449cc87b">
     
     
-   
- <url ="https://www.instagram.com/onetta_eduardo/">
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onetta_eduardo)
+
     
 ![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
        
